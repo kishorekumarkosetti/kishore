@@ -1,0 +1,7 @@
+| EmployeeID | FirstName | LastName | DateOfBirth | Gender | Department | Position           | Salary   |
+|------------|-----------|----------|-------------|--------|------------|--------------------|----------|
+| 11         | Benjamin  | Hall     | 1991-10-12  | Male   | IT         | Database Analyst   | 76000    |
+| 12         | Mia       | Lewis    | 1987-01-26  | Female | Finance    | Financial Manager  | 98000    |
+| 13         | Jackson   | Adams    | 1996-08-08  | Male   | Marketing  | Content Specialist | 71000    |
+| 14         | Sophia    | Turner   | 1983-03-22  | Female | HR         | HR Director        | 110000   |
+| 15         | William   | Hayes    | 1986-05-07  | Male   | Sales      | Senior Sales Rep   | 88000    |
